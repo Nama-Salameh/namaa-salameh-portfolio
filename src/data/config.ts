@@ -14,8 +14,8 @@ export const SITE = {
 
   My experience includes developing dashboards, integrating APIs, working with databases, and building backend services. I am always interested in improving my skills and taking on new technical challenges.`,
   available: true,
-  // Add your real portfolio URL after deployment.
-  url: "https://example.com",
+  // Update to the deployed production URL when published.
+  url: "https://github.com/Nama-Salameh/namaa-salameh-portfolio",
   // Add this PDF to the public folder using the exact filename.
   cvPdf: "/Nama-Salameh-CV.pdf",
   email: "nama.salameh@gmail.com",
@@ -25,7 +25,7 @@ export const SITE = {
 // ─── Demo ribbon ─────────────────────────────────────────────
 export const TEMPLATE_BANNER = {
   show: false,
-  repoUrl: "https://github.com/cekuu35/free-nextjs-cv-template",
+  repoUrl: "https://github.com/Nama-Salameh/namaa-salameh-portfolio",
   bundleLabel: "",
   bundleUrl: "",
 };

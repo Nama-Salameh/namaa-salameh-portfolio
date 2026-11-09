@@ -16,11 +16,12 @@ export const metadata: Metadata = {
   title: { default: title, template: `%s — ${SITE.name}` },
   description,
   keywords: [
-    "product designer",
-    "front-end engineer",
-    "UX designer",
-    "design systems",
+    "software engineer",
+    "frontend developer",
+    "full stack developer",
     "React developer",
+    "Angular developer",
+    "TypeScript developer",
     "portfolio",
     SITE.name,
   ],
@@ -44,7 +45,6 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title,
     description,
-    creator: "@maelin",
   },
 };
 
@@ -64,7 +64,9 @@ const personJsonLd = {
   address: { "@type": "PostalAddress", addressLocality: SITE.location },
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className="dark" suppressHydrationWarning>
       <head>

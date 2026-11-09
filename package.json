@@ -1,8 +1,8 @@
 {
-  "name": "personal-cv-template",
+  "name": "namaa-salameh-portfolio",
   "version": "1.0.0",
   "private": true,
-  "description": "Mae Lin — a minimal, modern personal portfolio & CV website template (Next.js + Tailwind).",
+  "description": "Nama' Salameh — personal portfolio and CV built with Next.js and Tailwind CSS.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
