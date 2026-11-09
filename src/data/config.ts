@@ -14,8 +14,7 @@ export const SITE = {
 
   My experience includes developing dashboards, integrating APIs, working with databases, and building backend services. I am always interested in improving my skills and taking on new technical challenges.`,
   available: true,
-  // Update to the deployed production URL when published.
-  url: "https://github.com/Nama-Salameh/namaa-salameh-portfolio",
+  url: "https://nama-salameh-portfolio.vercel.app",
   // Add this PDF to the public folder using the exact filename.
   cvPdf: "/Nama-Salameh-CV.pdf",
   email: "nama.salameh@gmail.com",

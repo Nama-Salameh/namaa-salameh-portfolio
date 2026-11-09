@@ -2,6 +2,8 @@
 
 A personal portfolio and CV built with Next.js, TypeScript, and Tailwind CSS.
 
+**Live portfolio:** [nama-salameh-portfolio.vercel.app](https://nama-salameh-portfolio.vercel.app)
+
 ## Overview
 
 This project presents my professional profile, work experience, projects, and contact information in a responsive single-page portfolio experience with supporting detail pages.
@@ -72,4 +74,3 @@ src/
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](./LICENSE).
-
